@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-cout << "I am project fof git test";
+  cout << "I am project for git test";
 }
